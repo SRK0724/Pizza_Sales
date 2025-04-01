@@ -62,7 +62,7 @@ Built an interactive dashboard using Power BI with visual representations of:
    git clone (https://github.com/SRK0724/Pizza_Sales)
 ```
 ### Access the Dashboard
-- Open the EXCEl file (`pizza_sales excel file.xlsx`).
+- Open the EXCEl file (pizza_sales excel file.xlsx).
 - Explore the interactive visualizations.
 
 ### Modify & Customize
